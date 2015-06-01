@@ -2,6 +2,10 @@ body {
 	margin: 50px;
 }
 
+.plotter-logo {
+	width: 48px;
+	height: 48px;
+}
 
 .splash {
     text-align: center;
