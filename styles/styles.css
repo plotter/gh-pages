@@ -2,6 +2,10 @@ body {
 	margin: 50px;
 }
 
+h1 {
+	v-align: middle;
+}
+
 .plotter-logo {
 	width: 64px;
 	height: 64px;
