@@ -3,8 +3,9 @@ body {
 }
 
 .plotter-logo {
-	width: 36px;
-	height: 36px;
+	width: 64px;
+	height: 64px;
+	v-align: middle;
 }
 
 .splash {
